@@ -58,7 +58,7 @@ dromara:
         path-patterns: /static/** # 访问路径
 
 file:
-  dir: ./upload/
+  dir: /app/data/upload/
 
 # 限流注解配置
 blog:
